@@ -1,0 +1,17 @@
+{
+  "name": "handsontable-splitcell-plugin",
+  "description": "Handsontable plugin for splitting cells",
+  "main": "dist/index.js",
+  "authors": [
+    "Caxy <dev@caxy.com>"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
