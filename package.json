@@ -1,6 +1,6 @@
 {
   "name": "handsontable-splitcell-plugin",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Handsontable plugin for splitting cells",
   "main": "dist/index.js",
   "repository": "git+https://github.com/InternationalCodeCouncil/handsontable-splitcell-plugin",
