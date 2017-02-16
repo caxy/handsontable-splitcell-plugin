@@ -12,6 +12,9 @@ const webpackConfig = {
             'node_modules'
         ]
     },
+    externals: {
+        handsontable: 'Handsontable'
+    },
     module: {}
 };
 

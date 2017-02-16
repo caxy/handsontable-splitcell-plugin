@@ -1,5 +1,6 @@
 /*global Handsontable*/
 import _ from 'lodash'
+import Handsontable from 'handsontable'
 
 class SplitCellPlugin extends Handsontable.plugins.BasePlugin {
   isEnabled () {
