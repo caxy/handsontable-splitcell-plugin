@@ -30,19 +30,6 @@ webpackConfig.output = {
 };
 
 // ------------------------------------
-// Plugins
-// ------------------------------------
-webpackConfig.plugins = [
-    new webpack.optimize.UglifyJsPlugin({
-        compress: {
-            unused: true,
-            dead_code: true,
-            warnings: false
-        }
-    })
-];
-
-// ------------------------------------
 // Loaders
 // ------------------------------------
 // JavaScript / JSON
